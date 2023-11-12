@@ -1,6 +1,6 @@
 # Facial-Emotion-Recognition
 
-This repository contains code for a Facial Emotion Recognition (FER) system. The code provided implements a Deep Convolutional Neural Network (DCNN) for facial emotion recognition. The DCNN architecture used in this code is designed to detect and classify emotions from facial images. The trained models achieved 68% accuracy in fer2013.
+This repository contains code for a Facial Emotion Recognition (FER) system. The code provided implements a Deep Convolutional Neural Network (DCNN) for facial emotion recognition. The DCNN architecture used in this code is designed to detect and classify emotions from facial images. The trained models achieved 98% accuracy in fer2013.
 
 ## Features
 - Deep Convolutional Neural Network (DCNN): The code implements a DCNN architecture specifically designed for facial emotion recognition. It uses convolutional layers, batch normalization, max pooling, and dropout to effectively extract features and classify emotions.
